@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sebastian Marquez
-**Cloud Infrastructure Engineer | Azure · DevOps · Terraform · AI**  
+**Cloud Engineer | Azure · DevOps · Terraform · AI**  
 🎓 AZ-400 · AZ-305 · AI-900 Certified · AZ-104 in Progress
 
 🔧 I design and build secure, scalable cloud infrastructure with Infrastructure as Code, automated CI/CD pipelines, and modern DevOps practices.
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a **Cloud Infrastructure Engineer** specializing in Microsoft Azure with a passion for automation and AI-integrated cloud solutions. My expertise spans from enterprise-grade infrastructure design to cutting-edge AI implementations.
+I'm a **Cloud Engineer** specializing in Microsoft Azure with a passion for automation and AI-integrated cloud solutions. My expertise spans from enterprise-grade infrastructure design to cutting-edge AI implementations.
 
 **Current Focus Areas:**
 - 🤖 **AI & Azure OpenAI Service** integration
